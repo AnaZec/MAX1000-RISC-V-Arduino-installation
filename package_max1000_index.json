@@ -16,7 +16,7 @@
           "checksum": "SHA-256:4c900a3e831f2c82f87a17474ce4ab34d22d6f714f7559b6e76dbb676afa1a2e",
           "size": "16442818",
           "boards": [
-            {"name": "MAX1000 RISC-V"},
+            {"name": "MAX1000 RISC-V"}
           ],
           "toolsDependencies": []
         }
