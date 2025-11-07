@@ -13,8 +13,8 @@
           "category": "FPGA Boards",
           "url": "https://raw.githubusercontent.com/AnaZec/MAX1000-RISC-V-Arduino-installation/main/max1000-1.0.0.zip",
           "archiveFileName": "max1000-1.0.0.zip",
-          "checksum": "SHA-256:2fec002e9e53ca5fd651956d6a56f7fecf3fc1435047f76cb6b052350cefbc4c",
-          "size": 42573037,
+          "checksum": "SHA-256:31149aeb1a40198dec171f2b7719992564f596a7f0a2848a301784ca9dfcf7f0",
+          "size": 42708355,
           "boards": [
             {"name": "MAX1000 RISC-V"}
           ],
