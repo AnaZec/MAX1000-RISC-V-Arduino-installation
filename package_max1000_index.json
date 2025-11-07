@@ -1,0 +1,27 @@
+{
+  "packages": [
+    {
+      "name": "max1000",
+      "maintainer": "AnaZec",
+      "websiteURL": "https://github.com/AnaZec/MAX1000-RISC-V-Arduino",
+      "email": "ana.zecns@gmail.com",
+      "platforms": [
+        {
+          "name": "max1000",
+          "architecture": "riscv",
+          "version": "0.1.0",
+          "category": "max1000",
+          "url": "https://anazec.github.io/MAX1000-RISC-V-Arduino-installation/max1000-1.0.0.tar.bz2",
+          "archiveFileName": "max1000-0.1.0.zip",
+          "checksum": "SHA-256:4c900a3e831f2c82f87a17474ce4ab34d22d6f714f7559b6e76dbb676afa1a2e",
+          "size": "16442818",
+          "boards": [
+            {"name": "MAX1000 RISC-V"},
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
